@@ -1,0 +1,64 @@
+.order-table{
+font-size:15px; 
+line-height:20px; 
+cellspacing:10;
+margin-left:-100px;
+width:1350px;
+}
+.table-striped{
+margin-left:-100px;
+width:120%;
+}
+.b{
+width:150px;
+}
+.c{
+width:50px;
+}
+.d{
+width:70px;
+}
+.e{
+width:100px;
+}
+.g{
+width:200px;
+}
+.h{
+width:100px;
+}
+.i{
+width:160px;
+}
+.j{
+width:80px;
+}
+.k{
+width:70px;
+}
+.l{
+width:50px;
+}
+.m{
+width:150px;
+}
+.n{
+width:100px;
+}
+.o{
+width:70px;
+}
+.p{
+width:100px;
+}
+.flip{
+	padding:5px;
+	text-align:center;
+	background-color: #e5eecc;
+    border: solid 1px #c3c3c3;
+}
+.panel {
+    padding: 10px;
+    display: none;
+	font-size:20px;
+}
